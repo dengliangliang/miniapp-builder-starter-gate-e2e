@@ -1,0 +1,15 @@
+name: External Starter Gate E2E
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  gate:
+    uses: dengliangliang/miniapp-builder/.github/workflows/starter-template-gate.yml@main
+    with:
+      target: uniapp-unibest
+      gate_script: starter:ci-gate
+      checkout_repository: ${{ github.repository }}
+      checkout_ref: ${{ github.ref }}

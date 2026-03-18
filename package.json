@@ -1,0 +1,10 @@
+{
+  "name": "miniapp-builder-starter-gate-e2e",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "prepublish:check": "node ./scripts/prepublish-check.mjs",
+    "starter:gate": "node ./scripts/starter-gate.mjs",
+    "starter:ci-gate": "npm run starter:gate --"
+  }
+}

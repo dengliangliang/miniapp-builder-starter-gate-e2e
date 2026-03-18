@@ -1,0 +1,7 @@
+{
+  "id": "uniapp-unibest",
+  "title": "External Gate E2E Fixture",
+  "description": "Minimal external repository used to validate the reusable starter-template gate workflow.",
+  "templateContractVersion": 1,
+  "templatePath": "."
+}
