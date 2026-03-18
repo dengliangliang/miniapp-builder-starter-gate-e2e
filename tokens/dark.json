@@ -1,0 +1,21 @@
+{
+  "theme": {
+    "dark": {
+      "color": {
+        "surface": {
+          "page": {
+            "value": "#08111f"
+          },
+          "card": {
+            "value": "#102033"
+          }
+        },
+        "text": {
+          "primary": {
+            "value": "#f8fafc"
+          }
+        }
+      }
+    }
+  }
+}

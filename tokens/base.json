@@ -1,0 +1,55 @@
+{
+  "global": {
+    "color": {
+      "palette": {
+        "brand": {
+          "500": {
+            "value": "#2f6fed"
+          }
+        },
+        "neutral": {
+          "0": {
+            "value": "#ffffff"
+          },
+          "900": {
+            "value": "#0f172a"
+          }
+        }
+      }
+    },
+    "space": {
+      "page": {
+        "value": "24px"
+      }
+    },
+    "radius": {
+      "card": {
+        "value": "32px"
+      }
+    },
+    "shadow": {
+      "card": {
+        "value": "0 16px 40px rgba(15, 23, 42, 0.08)"
+      }
+    },
+    "icon": {
+      "size": {
+        "md": {
+          "value": "20px"
+        }
+      }
+    },
+    "typography": {
+      "family": {
+        "sans": {
+          "value": "Inter, sans-serif"
+        }
+      },
+      "size": {
+        "body": {
+          "value": "14px"
+        }
+      }
+    }
+  }
+}

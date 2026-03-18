@@ -2,6 +2,7 @@
   "name": "miniapp-builder-starter-gate-e2e",
   "private": true,
   "version": "0.0.1",
+  "packageManager": "npm@11.8.0",
   "engines": {
     "node": ">=20.18.0"
   },
